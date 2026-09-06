@@ -8,6 +8,6 @@
     "axios": "0.21.0",
     "node-fetch": "2.6.0",
     "jsonwebtoken": "8.5.1",
-    "express": "4.16.0"
+    "express": "5.2.1"
   }
 }
